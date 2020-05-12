@@ -1,0 +1,43 @@
+body {
+      background-image: url("https://i.pinimg.com/originals/af/3a/ef/af3aef3f7edf0294bdecd2b9d0115146.gif");
+      background-size: auto 100vh;
+      height: 100vh;
+}
+
+.menu {
+
+}
+
+.menu ul {
+      background-color: lightslategrey;
+      display: flex;
+      justify-content: space-around;
+      list-style: none;
+      margin: auto;
+}
+.menu li{
+      margin: 10px;
+      font-size: 25px;
+      font-family: URW Chancery L, cursive;
+}
+
+a {
+      text-decoration: none;
+}
+a:hover {
+      color: snow;
+}
+
+.site-title{
+      font-family: 'Dancing Script', cursive;
+      font-size: 30px;
+}
+.site-subtitle,
+.site-title {
+      text-align: center;
+      color: rgb(198, 239, 255);
+}
+.site-subtitle {
+      font-style: italic;
+}
+
